@@ -16,7 +16,7 @@ Inspired by projects like Stanford’s *Generative Agents* and interactive simul
   - Long‑running, believable narratives instead of one‑off chats
   - Running multiple agents to simualte characters at the same time
   - Personal memory per agent
-  + Many more ideas
+  - Many more ideas
 
 My long‑term goal: turn this into a **world‑sim engine** where agents collectively generate emergent stories, economies, and institutions to simulate real people as clsoely as possible
 
