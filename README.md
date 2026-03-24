@@ -16,7 +16,7 @@ Inspired by projects like Stanford’s *Generative Agents* and interactive simul
   - Long‑running, believable narratives instead of one‑off chats
   - Running multiple agents to simualte characters at the same time
   - Personal memory per agent
-  - + Many more ideas
+  + Many more ideas
 
 My long‑term goal: turn this into a **world‑sim engine** where agents collectively generate emergent stories, economies, and institutions to simulate real people as clsoely as possible
 
@@ -26,8 +26,6 @@ My long‑term goal: turn this into a **world‑sim engine** where agents collec
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/YOUR_USERNAME)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LangGraph](https://img.shields.io/badge/langgraph-%231C3C3C.svg?style=for-the-badge&logo=langgraph&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 ---
 
