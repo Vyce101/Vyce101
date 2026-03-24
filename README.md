@@ -26,7 +26,7 @@ My long‑term goal: turn this into a **world‑sim engine** where agents collec
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/YOUR_USERNAME)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/) | 
+[![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)](https://github.com/features/copilot)
 
 ---
